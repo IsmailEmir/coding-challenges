@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C3MIZ4IP5X0=",
+  "success": true,
+  "projectFilePath": "/home/ismailemirkoch/repositories/coding-challenges/LeetCode/LeetCode.csproj",
+  "expectedPackageFiles": [
+    "/home/ismailemirkoch/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.12/microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
