@@ -1,4 +1,4 @@
-namespace LeetCode._0066_PlusOne;
+namespace LeetCode.Easy._0066_PlusOne;
 
 public class PlusOne
 {

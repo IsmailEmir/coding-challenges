@@ -1,4 +1,4 @@
-namespace LeetCode._0020_ValidParentheses;
+namespace LeetCode.Easy._0020_ValidParentheses;
 
 public class ValidParenthesis
 {
